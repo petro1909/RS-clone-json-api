@@ -34,7 +34,7 @@ const db = {
         "name": "project2"
       }
     ],
-    userBoard: [
+    userBoards: [
       {
         "id": 1,
         "userId": 1,
